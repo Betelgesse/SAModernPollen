@@ -1,4 +1,4 @@
 # SAModernPollen
-Modern pollen dataset for southern Africa
+Modern pollen dataset for Southern Africa
 
 Dataset will be available upon publication
